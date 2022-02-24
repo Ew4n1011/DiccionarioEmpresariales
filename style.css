@@ -1,0 +1,5 @@
+div#pagina {width: 1000px; margin-left: auto; margin-right: auto; font-family: Arial, Helvetica, sans-serif;}
+header {background-color: #7a2d2d; color: #d3c3c3;}
+footer {background-color: #61615e; text-align: center;}
+img {height: 1000px; display: block; margin-left: auto; margin-right: auto; width: 50%;}
+.índice {position: absolute; top: 70px; right: 16px; font-size: 18px;}
